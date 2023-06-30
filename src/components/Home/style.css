@@ -1,0 +1,6 @@
+.content-area{
+	background: url('../../images/background.png');
+	background-size: contain;
+	height: 100%;
+	padding-top: 10px;
+}

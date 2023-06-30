@@ -1,0 +1,9 @@
+.card-type5-wrapper{
+	margin-top: 15px;
+	flex: 1;
+}
+.card-type5-wrapper .card-container{
+    width: 40%;
+    padding: 30px;
+    padding-bottom: 15px;
+}

@@ -1,0 +1,27 @@
+.login-wrapper{
+	padding: 60px;
+	height: 100vh;
+}
+.login-form-wrapper{
+	width: 475px;
+    margin: auto;
+    background: rgba(0,0,0,0.2);
+    border-radius: 30px;
+    padding: 67px;
+    margin-top: 150px;
+}
+form .label{
+	color: #fff;
+    font-size: 16pt;
+}
+form button{
+	cursor: pointer;
+	background-color: #35C7C9;
+	color: #ffffff;
+}
+.content-area{
+	background: url('../../images/background.png');
+	background-size: contain;
+	height: 100%;
+	padding-top: 10px;
+}

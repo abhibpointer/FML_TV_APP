@@ -1,0 +1,21 @@
+.card-type4-wrapper{
+	margin-top: 15px;
+	flex: 1;
+}
+.multiple-card-wrapper-4{
+	display: flex;
+    width: 90%;
+    margin: auto;
+    justify-content: space-around;
+	align-items: flex-start;
+}
+.multiple-card-wrapper-4 .side-title{
+	font-size: 50pt;
+	line-height: 65px;
+	margin-bottom: 30px !important;
+}
+.card-type4-wrapper .card-container,
+.card-type4-wrapper .side-title {
+    width: 90%;
+    margin: auto;
+}

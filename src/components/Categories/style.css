@@ -1,0 +1,44 @@
+.categories-wrapper{
+	display: flex;
+	justify-content: space-between;
+}
+.categories-wrapper .categories-list{
+	width: 85%;
+	display: flex;
+	justify-content: space-around;
+}
+.categories-wrapper .categories-item-wrapper{
+	width: 200px;
+	overflow: hidden;
+	text-align: center;
+	display: flex;
+	flex-direction: column;
+	color: #fff;
+	cursor: pointer;
+}
+.categories-wrapper .categories-item-icon{
+	width: 90px;
+    overflow: hidden;
+    margin-left: auto;
+    margin-right: auto;
+}
+.categories-wrapper .categories-item-name{
+	font-size: 16pt;
+	line-height: 25px;
+	opacity: 0.4
+}
+.categories-wrapper .categories-item-name.active{
+	opacity: 1
+}
+.categories-wrapper .categories-item-icon img{
+	width: 100%
+}
+.categories-wrapper .app-logo{
+	width: 180px;
+    overflow: hidden;
+    padding: 35px;
+    cursor: pointer;
+}
+.categories-wrapper .app-logo img{
+	width: 100%;
+}
